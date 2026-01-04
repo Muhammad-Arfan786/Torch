@@ -16,7 +16,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.torchlight.app"
+    namespace = "com.nineflashlight.app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "26.3.11579264"
 
@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.torchlight.app"
+        applicationId = "com.nineflashlight.app"
         minSdk = 23
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

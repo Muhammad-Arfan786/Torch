@@ -1,4 +1,4 @@
-package com.torchlight.app
+package com.nineflashlight.app
 
 import io.flutter.embedding.android.FlutterActivity
 

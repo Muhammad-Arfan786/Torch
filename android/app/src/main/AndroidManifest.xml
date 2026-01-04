@@ -22,7 +22,7 @@
     <uses-feature android:name="android.hardware.sensor.compass" android:required="false"/>
 
     <application
-        android:label="Torch - Flashlight"
+        android:label="Nine Flashlight"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:allowBackup="true"
